@@ -1,5 +1,7 @@
 ### Cliente/Servidor Python Chat
 
+Exemplo de aplicação de Sockets em Python.
+
 ![](./screenshot.png)
 
 ## Instalação
